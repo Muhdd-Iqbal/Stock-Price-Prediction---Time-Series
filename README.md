@@ -71,6 +71,7 @@ python src/main.py
 ## Components
   ### Time Series Plot
   <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/37baa3c4-6b72-437b-aa38-a1a1264198e2" />
+  
   ### Trend and Seasonality
   <img width="894" height="1190" alt="image" src="https://github.com/user-attachments/assets/d19e8505-5922-4c0d-b5d6-e59f40462071" />
 
