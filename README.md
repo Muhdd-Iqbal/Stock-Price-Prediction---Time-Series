@@ -62,7 +62,7 @@ In this case, we are using Stock Market data from "BBCA"
 pip install -r requirements.txt
 
 # run notebook or script
-python src/main.py
+python main.py
 ```
 
 ## Actual vs Forecast
